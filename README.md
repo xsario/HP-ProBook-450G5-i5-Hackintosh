@@ -76,6 +76,4 @@ OpenCore setup for running Hackintosh on HP ProBook 450 G5
 
 
 ##### Thanks to:
-- https://www.tonymacx86.com/threads/guide-lenovo-v330-15ikb-using-clover-uefi-hotpatch.265841/
-- https://www.tonymacx86.com/threads/guide-hp-probook-elitebook-zbook-using-clover-uefi-hotpatch-10-11.189416/
 - https://github.com/mmatongo/HP-450G5-Hackintosh
