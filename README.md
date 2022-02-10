@@ -5,6 +5,8 @@ First, copy the shared EFI file into the macOS Monterey USB EFI.
 Open the config.plist file in the EFI with OpenCORE configurator.
 In the PlatformInfo tab, select Model MacbookPro 14.1.
 
+![OpenCore_PlatformInfo](https://user-images.githubusercontent.com/3669931/153394171-f551f935-e794-4d22-a34c-814629aaaba7.png)
+
 After this process, you will have a new Serial and UUID.
 
 # HP-ProBook-450G5-i5-Hackintosh
