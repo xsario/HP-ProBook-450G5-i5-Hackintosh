@@ -15,7 +15,6 @@ OpenCore setup for running Hackintosh on HP ProBook 450 G5
 
 ##### Laptop Specifications:
 - Intel Core i5 8250U CPU (KabyLake R)
-- Bios 01.14.01
 - Intel UHD 620 Graphics
 - 16GB DDR4 2400MHz RAM
 - 15.6 Full HD IPS Display
@@ -27,6 +26,7 @@ OpenCore setup for running Hackintosh on HP ProBook 450 G5
 - 512GB Seagate NVME M.2 SSD (upgraded)
 
 ##### BIOS Setup:
+- Bios Version 01.14.01
 - Disable TPM Security
 - Disable Physical Presence Interface
 - Disable Intel SGX
